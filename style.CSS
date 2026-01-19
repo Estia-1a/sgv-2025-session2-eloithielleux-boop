@@ -1,1 +1,20 @@
+/* Style pour le titre principal */
+h1 {
+    color: #2c3e50;
+    font-family: Arial, sans-serif;
+}
 
+/* Style pour la section profil */
+#profile {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+/* Style pour l'image de profil */
+img {
+    max-width: 200px;
+    border-radius: 50%;
+    border: 3px solid #3498db;
+}
